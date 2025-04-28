@@ -6,7 +6,7 @@ This repository provides three Python tools for decoding, verifying, and encodin
 
 Check out the demonstration on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=gPPiMt1yU1s)
+[![Watch the video](https://img.youtube.com/vi/gPPiMt1yU1s/maxresdefault.jpg)](https://www.youtube.com/watch?v=gPPiMt1yU1s)
 
 ## Tools Overview
 
