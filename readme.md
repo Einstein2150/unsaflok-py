@@ -13,13 +13,10 @@ Check out the demonstration on YouTube:
 ### 1. `saflok-decode-in.py`
 
 **Purpose:**
-- Decrypts a Saflok card's encrypted block data.
-- Parses and displays card information such as key level, key ID, key record, expiry date, property number, and other parameters.
+- Decrypts a Saflok card's encrypted block data
 
 **Main Features:**
 - Decryption of encrypted Saflok data.
-- Extraction of key properties.
-- Parsing of expiration dates and key flags.
 
 ### 2. `saflok-checksum.py`
 
@@ -38,9 +35,8 @@ Check out the demonstration on YouTube:
 - Re-encrypts structured card data to create valid Saflok key cards.
 
 **Main Features:**
-- Input structured fields (key level, key ID, validity, etc.).
+- Input structured data with checksum
 - Encode back to a correctly encrypted card block.
-- Ready for writing back to a blank card.
 
 ---
 
